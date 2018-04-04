@@ -29,5 +29,4 @@ def add_page_to_index(index,url,content):
 
 # add_page_to_index(index,'www.fake.com',"This is a test")
 # print(index)
-# >>> [['This', ['www.fake.com']], ['is', ['www.fake.com']], ['a', ['www.fake.com']],
-# >>> ['test',['fake.text']]]
+# >>> [['This', ['www.fake.com']], ['is', ['www.fake.com']], ['a', ['www.fake.com']],['test',['www.fake.com']]]
