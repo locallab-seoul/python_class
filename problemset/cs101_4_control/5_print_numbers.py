@@ -11,7 +11,7 @@
 
 
 
-#print(numbers(3))
+#print_numbers(3)
 #>>> 1
 #>>> 2
 #>>> 3
