@@ -29,6 +29,6 @@ def print_all_links(page):
             break
 
 
-content = get_page('http://naver.com')
+content = get_page('https://locallab-seoul.com/memebership')
 
 print_all_links(content)
